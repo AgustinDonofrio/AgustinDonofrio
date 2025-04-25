@@ -10,10 +10,10 @@
 
 <!--About Me-->
 
-<img align="right" width="360" src="https://img.freepik.com/vector-gratis/ilustracion-concepto-mecanografia-codigo_114360-3581.jpg?t=st=1745595036~exp=1745598636~hmac=af41ed98577fcebee91c6c32c2d1e977e875b768298862981926c7126d60340b&w=740">
+<img align="right" width="360" src="https://i.imgur.com/yjFDc97.png">
 
 <br/>
-<br/>
+
 I'm a Systems Engineer with a passion for building efficient solutions and exploring the world of data. With experience in full-stack development and a growing enthusiasm for data engineering, I enjoy tackling complex challenges and continuously learning new technologies.
 
 - 🌱 Currently diving deeper into data pipelines and cloud technologies.
@@ -22,7 +22,6 @@ I'm a Systems Engineer with a passion for building efficient solutions and explo
   
 - 💡 Always open to collaborating on innovative ideas and meaningful projects.
 
-<br/>
 <br/>
 
 <!--Skills & Tools-->
